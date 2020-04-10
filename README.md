@@ -1,5 +1,5 @@
 # MultiClassCNN
-MultiClass CNN 
+ 
 MultiClass and Binary CNN Classifier Using PyTorch. This is based off theCIFAR10 dataset with 10 class labels. 
 
 
