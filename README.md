@@ -1,7 +1,6 @@
-# MultiClassCNN
- 
-MultiClass and Binary CNN Classifier Using PyTorch. This is based off theCIFAR10 dataset with 10 class labels. 
+# MultiClass and Binary CNN Classifier Using PyTorch. 
 
+This is based off theCIFAR10 dataset with 10 class labels. 
 
 Accuracy of the network on the 10000 test images: 54 %
 Accuracy of plane : 51 %
